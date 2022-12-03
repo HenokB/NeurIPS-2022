@@ -16,5 +16,7 @@ This is a list of some great papers I got from [NeurIPS 2022](https://neurips.cc
 
 * Karthik Valmeekam et al.: [Large Language Models Still Can't Plan (A Benchmark for LLMs on Planning and Reasoning about Change)](https://arxiv.org/abs/2206.10498)
 
+* Amanuel Mersha and Stephen Wu: [DistillEmb: Distilling Word Embeddings via Contrastive Learning](https://leobitz.github.io/files/distill-emb.pdf)
+
 
 
