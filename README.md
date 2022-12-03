@@ -4,9 +4,11 @@ This is a list of some great papers I got from [NeurIPS 2022](https://neurips.cc
 
 📚Please consider adding more papers and leave a star ⭐️.
 
-* [Deep Generative Model for Periodic Graphs.](https://arxiv.org/abs/2201.11932)
+* Shiyu Wang, Xiaojie Guo, Liang Zhao: [Deep Generative Model for Periodic Graphs.](https://arxiv.org/abs/2201.11932)
 
-* [How do Authors' Perceptions of their Papers Compare with Co-authors' Perceptions and Peer-review Decisions?](https://arxiv.org/abs/2211.12966)
+* Charvi Rastogi et al.: [How do Authors' Perceptions of their Papers Compare with Co-authors' Perceptions and Peer-review Decisions?](https://arxiv.org/abs/2211.12966)
 
-* 
+* Yongyuan Liang et al.: [Efficient Adversarial Training without Attacking: Worst-Case-Aware Robust Reinforcement Learning](https://openreview.net/forum?id=y-E1htoQl-n)
+
+* Geoffrey Hinton: [The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf) 
 
