@@ -12,5 +12,5 @@ This is a list of some great papers I got from [NeurIPS 2022](https://neurips.cc
 
 * Geoffrey Hinton: [The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf) 
 
-* Shubhanshu Mishra and Jana Diesner: [PyTAIL: Interactive and Incremental Learning of NLP Models with Human in the Loop for Online Data (https://arxiv.org/abs/2211.13786)
+* Shubhanshu Mishra and Jana Diesner: [PyTAIL: Interactive and Incremental Learning of NLP Models with Human in the Loop for Online Data](https://arxiv.org/abs/2211.13786)
 
