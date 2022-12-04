@@ -20,6 +20,10 @@ This is a list of some great papers I got from [NeurIPS 2022](https://neurips.cc
 
 * Gaoyue Zhou et al.:[Train Offline, Test Online: A Real Robot Learning Benchmark](https://openreview.net/pdf?id=VMspd1RnI_0)
 
+## Machine Learning
+
+* Shiro Takagi: [Thoughts on the Applicability of Machine Learning to Scientific Discovery and Possible Future Research Directions](https://openreview.net/forum?id=shg-h1o9-a)
+
 
 
 
