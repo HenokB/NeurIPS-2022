@@ -18,7 +18,7 @@ This is a list of some great papers I got from [NeurIPS 2022](https://neurips.cc
 
 * Amanuel Mersha and Stephen Wu: [DistillEmb: Distilling Word Embeddings via Contrastive Learning](https://leobitz.github.io/files/distill-emb.pdf)
 
-[Train Offline, Test Online: A Real Robot Learning Benchmark](https://openreview.net/pdf?id=VMspd1RnI_0)
+* Gaoyue Zhou et al.:[Train Offline, Test Online: A Real Robot Learning Benchmark](https://openreview.net/pdf?id=VMspd1RnI_0)
 
 
 
