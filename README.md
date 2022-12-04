@@ -3,6 +3,7 @@
 This is a list of some great papers I got from [NeurIPS 2022](https://neurips.cc). This list is started by [Henok Ademtew](https://twitter.com/henokademtew) and I welcome any feedback, suggestions, and/or comments.
 
 📚Please consider adding more papers and leave a star ⭐️.
+* Sreejan Kumar et al.: [Using Natural Language and Program Abstractions to Instill Human Inductive Biases in Machines](https://arxiv.org/abs/2205.11558)
 
 * Shiyu Wang, Xiaojie Guo, Liang Zhao: [Deep Generative Model for Periodic Graphs.](https://arxiv.org/abs/2201.11932)
 
